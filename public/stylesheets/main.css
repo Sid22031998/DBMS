@@ -1,0 +1,29 @@
+.first-form{
+	height: 50%;
+	width: 50%;
+	padding: 5rem 5rem;
+}
+
+.cancel{
+	text-align: right;
+	margin-left: 50px;
+}
+
+.nav{
+	margin-bottom: 20px;
+	margin-top: 5px;
+}
+
+.details{
+	display: block;
+	text-align: center;
+}
+
+.details__button{
+	margin: 50px 20px;
+}
+
+.butt{
+	margin:0 20px;
+}
+
